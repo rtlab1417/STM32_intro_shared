@@ -1,18 +1,25 @@
 # STM32_intro_shared
-## Getting Start with STM32 using STM32CubeIDE and HAL
+## Author
+Dr Tee Kian Sek
+Faculty of Electrical and Electronic Engineering, Universiti Tun Hussein Onn Malaysia
 
-# STM32F103C8T6 
-also known as Blue Pill
+### Note by the author
+This is non profit learning sharing. 
+The author assumes no responsibility or liability for any errors or omissions in the content of this site. The information contained in this site is provided on an "as is" basis with no guarantees of completeness, accuracy, usefulness or timeliness.
+
+# Title: Getting Start with STM32 using STM32CubeIDE and HAL
 
 # Objectives
 1. To learn the MCU and the registers
 2. To deploy official ST IDE - namely STM32CubeIDE
 3. To deploy official ST Hardware Abstract Layer (HAL)
 
-Minimum cost.
 The learning path and knowledge are applicable to other STM32 MCU.
+Refer to the module attached. 
 
 # Market Parts
+The learner are urged to buy the market parts online. They are rather cheap and easily available.
+
 1. BluePill - STM32F103C8T6 x 1
 2. ST-Link V2 - clone x 1
 3. USB to UART Converter x 1
