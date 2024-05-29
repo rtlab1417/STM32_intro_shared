@@ -5,7 +5,7 @@ Faculty of Electrical and Electronic Engineering,
 Universiti Tun Hussein Onn Malaysia
 
 ### Note by the author
-This is non profit learning sharing. 
+This is a non profit learning sharing.   
 The author assumes no responsibility or liability for any errors or omissions in the content of this site. The information contained in this site is provided on an "as is" basis with no guarantees of completeness, accuracy, usefulness or timeliness.
 
 # Title: Getting Start with STM32 using STM32CubeIDE and HAL
@@ -15,7 +15,7 @@ The author assumes no responsibility or liability for any errors or omissions in
 2. To deploy official ST IDE - namely STM32CubeIDE
 3. To deploy official ST Hardware Abstract Layer (HAL)
 
-The learning path and knowledge are applicable to other STM32 MCU.
+The learning path and knowledge are applicable to other STM32 MCU.  
 Refer to the module attached. 
 
 # Market Parts
@@ -32,6 +32,5 @@ The learner are urged to buy the market parts online. They are rather cheap and 
 9. Jumper wire
 10. OLED 0.96", 128 x 64, I2C x 1 
 
-Computer (laptop or desktop) - running Windows 11
-with access to WiFi
+Computer (laptop or desktop) - running Windows 11 with access to WiFi
 
