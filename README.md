@@ -17,7 +17,7 @@ The author assumes no responsibility or liability for any errors or omissions in
 
 The learners are encouraged to read the datasheets / manual and experiment the practices.
 The learning path and knowledge are applicable to other STM32 MCU.  
-Refer to the module attached. 
+Refer to the module attached - **STM32_Intro.pdf**
 
 ## Market Parts
 The learners are urged to buy the market parts online. They are pretty cheap and easily available.
