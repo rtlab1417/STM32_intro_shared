@@ -37,3 +37,25 @@ Will add on as the practices expanding.
 
 Computer (laptop or desktop) - running Windows 11 with access to WiFi.
 
+# Softwares
+** ST
+1. STM32CubeIDE - Integrated Development Environment for STM32
+   [https://www.st.com/en/development-tools/stm32cubeide.html]
+2. STM32CubeProgrammer software for all STM32
+   [https://www.st.com/en/development-tools/stm32cubeprog.html]
+3. STM32 Flash loader demonstrator (UM0462)
+   [https://www.st.com/en/development-tools/flasher-stm32.html]
+5. STM32Cube initialization code generator
+   [https://www.st.com/en/development-tools/stm32cubemx.html]
+   No used in this learning.
+
+** Third parties
+1. Serial Terminal App - CoolTerm
+   [https://coolterm.en.lo4d.com/windows]
+2. Free serial port debug tool - eagleCom
+   [http://www.mcuisp.com/English%20mcuisp%20web/ruanjianxiazai-english.htm]
+   *My favour Serial Terminal App*
+3. Free STM32 ISP software
+   [http://www.mcuisp.com/English%20mcuisp%20web/ruanjianxiazai-english.htm]
+
+
