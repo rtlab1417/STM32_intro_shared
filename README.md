@@ -79,4 +79,4 @@ Refer to the module. Create the first project. Check for readiness if STM32CubeI
 
 *Will add on as the practices expanding.*
 
-![Schematic for Practice 1 to Practice 7](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![Schematic for Practice 1 to Practice 7](/Schematic_STM32F103C8T6-P1-P7_2024-05-29.svg)
