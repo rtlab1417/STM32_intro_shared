@@ -33,7 +33,7 @@ The learners are urged to buy the market parts online. They are pretty cheap and
 9. Jumper wire
 10. OLED 0.96", 128 x 64, I2C x 1
 
-Will add on as the practices expanding.
+*Will add on as the practices expanding.*
 
 Computer (laptop or desktop) - running Windows 11 with access to WiFi.
 
@@ -67,3 +67,14 @@ D:\STM32CubeIDE\workspace\
 
 ## First Project
 Refer to the module. Create the first project. Check for readiness if STM32CubeIDE, MCU and ST-Link (ISP) are ready!
+
+# Practices
+1. GPIO - LED
+2. GPIO - LEDs Blink
+3. GPIO - LED-Buttons
+4. GPIO - EXTI
+5. UART in Polling Mode
+6. UART With Interrup
+7. UART With DMA
+
+*Will add on as the practices expanding.*
