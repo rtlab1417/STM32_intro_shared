@@ -35,5 +35,5 @@ The learners are urged to buy the market parts online. They are pretty cheap and
 
 Will add on as the practices expanding.
 
-Computer (laptop or desktop) - running Windows 11 with access to WiFi
+Computer (laptop or desktop) - running Windows 11 with access to WiFi.
 
