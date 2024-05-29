@@ -78,3 +78,5 @@ Refer to the module. Create the first project. Check for readiness if STM32CubeI
 7. UART With DMA
 
 *Will add on as the practices expanding.*
+
+![Schematic for Practice 1 to Practice 7](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
