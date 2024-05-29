@@ -1,7 +1,7 @@
 # STM32_intro_shared
 ## Author
 Dr Tee Kian Sek  
-Faculty of Electrical and Electronic Engineering,   
+Faculty of Electrical and Electronic Engineering   
 Universiti Tun Hussein Onn Malaysia
 
 ### Note by the author
