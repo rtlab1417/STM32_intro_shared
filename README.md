@@ -38,7 +38,7 @@ Will add on as the practices expanding.
 Computer (laptop or desktop) - running Windows 11 with access to WiFi.
 
 # Softwares
-** ST
+** ST **
 1. STM32CubeIDE - Integrated Development Environment for STM32
    [https://www.st.com/en/development-tools/stm32cubeide.html]
 2. STM32CubeProgrammer software for all STM32
@@ -49,7 +49,7 @@ Computer (laptop or desktop) - running Windows 11 with access to WiFi.
    [https://www.st.com/en/development-tools/stm32cubemx.html]
    No used in this learning.
 
-** Third parties
+** Third parties  ** 
 1. Serial Terminal App - CoolTerm
    [https://coolterm.en.lo4d.com/windows]
 2. Free serial port debug tool - eagleCom
