@@ -58,8 +58,12 @@ Computer (laptop or desktop) - running Windows 11 with access to WiFi.
 3. Free STM32 ISP software
    [http://www.mcuisp.com/English%20mcuisp%20web/ruanjianxiazai-english.htm]
 
-# Installing STM32CubeIDE
+# STM32CubeIDE
+## Download and Install
 First of all, download the last version of STM32CubeIDE from ST website. Follow the instructions and install.   
 Create a specific folder in your computer as the workspace for all projects.   
 Example:   
 D:\STM32CubeIDE\workspace\
+
+## First Project
+Refer to the module. Create the first project. Check for readiness if STM32CubeIDE, MCU and ST-Link (ISP) are ready!
