@@ -11,15 +11,16 @@ The author assumes no responsibility or liability for any errors or omissions in
 # Title: Getting Start with STM32 using STM32CubeIDE and HAL
 
 ## Objectives
-1. To learn the MCU and the registers
+1. To learn the MCU and its registers
 2. To deploy official ST IDE - namely STM32CubeIDE
 3. To deploy official ST Hardware Abstract Layer (HAL)
 
+The learners are encouraged to read the datasheets / manual and experiment the practices.
 The learning path and knowledge are applicable to other STM32 MCU.  
 Refer to the module attached. 
 
 ## Market Parts
-The learner are urged to buy the market parts online. They are rather cheap and easily available.
+The learners are urged to buy the market parts online. They are pretty cheap and easily available.
 
 1. BluePill - STM32F103C8T6 x 1
 2. ST-Link V2 - clone x 1
