@@ -8,7 +8,7 @@ Universiti Tun Hussein Onn Malaysia
 This is a non profit learning sharing.   
 The author assumes no responsibility or liability for any errors or omissions in the content of this site. The information contained in this site is provided on an "as is" basis with no guarantees of completeness, accuracy, usefulness or timeliness.
 
-# Title: Getting Start with STM32 using STM32CubeIDE and HAL
+# Title: Getting Start with STM32 using STM32CubeIDE and HAL
 
 # Objectives
 1. To learn the MCU and the registers
