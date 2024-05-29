@@ -31,7 +31,9 @@ The learners are urged to buy the market parts online. They are pretty cheap and
 7. Resistor 1/4 W, 1k - 4.7k Ohm x 2
 8. Breadboard x 1
 9. Jumper wire
-10. OLED 0.96", 128 x 64, I2C x 1 
+10. OLED 0.96", 128 x 64, I2C x 1
+
+Will add on as the practices expanding.
 
 Computer (laptop or desktop) - running Windows 11 with access to WiFi
 
