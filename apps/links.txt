@@ -1,0 +1,26 @@
+Serial Terminal App - CoolTerm
+	https://coolterm.en.lo4d.com/windows
+
+Free serial port debug tool
+eagleCom
+	http://www.mcuisp.com/English%20mcuisp%20web/ruanjianxiazai-english.htm
+
+
+STM32 Flash loader demonstrator (UM0462)
+	https://www.st.com/en/development-tools/flasher-stm32.html
+
+
+Free STM32 ISP software
+	http://www.mcuisp.com/English%20mcuisp%20web/ruanjianxiazai-english.htm
+
+
+STM32CubeProgrammer software for all STM32
+	https://www.st.com/en/development-tools/stm32cubeprog.html
+
+
+Integrated Development Environment for STM32
+	https://www.st.com/en/development-tools/stm32cubeide.html
+
+
+STM32Cube initialization code generator
+	https://www.st.com/en/development-tools/stm32cubemx.html
