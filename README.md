@@ -71,7 +71,10 @@ D:\STM32CubeIDE\workspace\
 [Schematic of STM32F103C8T6, aka BluePill](documents/original-schematic-STM32F103C8T6-Blue_Pill.pdf)
 
 ## First Project
-Refer to the module. Create the first project. Check for readiness if STM32CubeIDE, MCU and ST-Link (ISP) are ready!
+Refer to the module.   
+[Teaching Module](STM32_Intro.pdf)
+
+Create the first project. Check for readiness if STM32CubeIDE, MCU and ST-Link (ISP) are ready!
 
 # Practices
 1. GPIO - LED
