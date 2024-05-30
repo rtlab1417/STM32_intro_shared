@@ -100,7 +100,8 @@ Create the first project. Check for readiness if STM32CubeIDE, MCU and ST-Link (
 Comment:    
 Each practice is a template for future applications. A bigger project is a combination of smaller projects.   
 Practicing on a smaller project serves the purpose of learning and gain confidence as we move to a bigger and much complex project.   
-Many peripherals such as GPIO (Input/output), Interrupts, USART, I2C, etc. are trialed.
+Many peripherals such as GPIO (Input/output), Interrupts, USART, I2C, etc. are trialed.   
+
 *Will add on as the practices expanding.*
 
 1. GPIO - LED
