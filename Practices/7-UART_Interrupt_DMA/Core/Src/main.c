@@ -1,7 +1,5 @@
 /* USER CODE BEGIN Header */
 /**
- * https://youtu.be/dMUxRyq2m6s?si=K8J4Onh8zM5IyG_x
- * 【工作STM32】第10集 STM32串口DMA模式与收发不定长数据 | keysking的stm32教程
  *
  * Upgrade
  * 1. continous reading from receive
@@ -143,6 +141,7 @@ int main(void)
 
 //  HAL_UART_Receive_DMA(&huart2, receiveData, 2);
   HAL_UARTEx_ReceiveToIdle_DMA(&huart2, receiveData, sizeof(receiveData));
+  __HAL_DMA_DISABLE_IT(&hdma_usart2_rx, DMA_IT_HT);
   /* USER CODE END 2 */
 
   /* Infinite loop */

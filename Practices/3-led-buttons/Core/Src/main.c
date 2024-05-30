@@ -1,8 +1,6 @@
 /* USER CODE BEGIN Header */
 /**
- * Teaching sources:
- * 【keysking的stm32教程】第4集 按键控制小灯 GPIO输入
- * https://youtu.be/ddwlPMvmipY?si=FnwgdL6jh-qsLoCo
+
   ******************************************************************************
   * @file           : main.c
   * @brief          : Main program body
@@ -96,7 +94,10 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-	  HAL_GPIO_ReadPin(KEY1_GPIO_Port, KEY1_Pin);
+	  // KEY1 == external pullup; KEY2 == internal pullup
+
+	  // KEY1. Not self-holding
+	  //HAL_GPIO_ReadPin(KEY1_GPIO_Port, KEY1_Pin);
 
 	  if(HAL_GPIO_ReadPin(KEY1_GPIO_Port, KEY1_Pin)==GPIO_PIN_RESET ){
 		  HAL_GPIO_WritePin(LED_GREEN_GPIO_Port, LED_GREEN_Pin, GPIO_PIN_SET);
@@ -106,14 +107,27 @@ int main(void)
 	  }
 
 	  // debouncing by software
+//	  if(HAL_GPIO_ReadPin(KEY2_GPIO_Port, KEY2_Pin)==GPIO_PIN_RESET ){
+//		  HAL_Delay(10);
+//		  if(HAL_GPIO_ReadPin(KEY2_GPIO_Port, KEY2_Pin)==GPIO_PIN_RESET ){
+//			  HAL_GPIO_TogglePin(LED_RED_GPIO_Port, LED_RED_Pin);
+//			  while(HAL_GPIO_ReadPin(KEY2_GPIO_Port, KEY2_Pin)==GPIO_PIN_RESET){};
+//		  }
+//
+//	  }
+
+	  // if not debouncing by software
 	  if(HAL_GPIO_ReadPin(KEY2_GPIO_Port, KEY2_Pin)==GPIO_PIN_RESET ){
-		  HAL_Delay(10);
+		  //HAL_Delay(10);
 		  if(HAL_GPIO_ReadPin(KEY2_GPIO_Port, KEY2_Pin)==GPIO_PIN_RESET ){
 			  HAL_GPIO_TogglePin(LED_RED_GPIO_Port, LED_RED_Pin);
-			  while(HAL_GPIO_ReadPin(KEY2_GPIO_Port, KEY2_Pin)==GPIO_PIN_RESET){};
+			  //while(HAL_GPIO_ReadPin(KEY2_GPIO_Port, KEY2_Pin)==GPIO_PIN_RESET){};
 		  }
 
 	  }
+
+
+
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */

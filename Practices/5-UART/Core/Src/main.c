@@ -1,7 +1,5 @@
 /* USER CODE BEGIN Header */
 /**
- * https://youtu.be/A9XTz65FStw?si=pJQZhAibVuBeEUf-
- * 第8集 STM32的串口通信
  *
  *This example has a few problem
  *1. UART2 - receive and transmit are always occupying CPU resource (in while loop)
@@ -106,6 +104,10 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+	  /* Another process */
+	  //HAL_Delay(2000);
+
+	  /* UART Polling Mode */
 	  HAL_UART_Receive(&huart2, receiveData, 2, HAL_MAX_DELAY);
 	  HAL_UART_Transmit(&huart2, receiveData, 2, 100);
 	  GPIO_PinState state = GPIO_PIN_SET;

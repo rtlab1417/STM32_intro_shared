@@ -1,7 +1,5 @@
 /* USER CODE BEGIN Header */
 /**
- * https://youtu.be/dwacJD7I5a8?si=uBWEuey-tvaH9Ah7
- * 【keysking的STM32教程】第9集 STM32串口原理与串口中断模式收发
  *
  * Upgrade - select NVIC -UART2
  * Use transmit it and receive it and callback
@@ -135,6 +133,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+	  HAL_Delay(2000);
 
 
     /* USER CODE END WHILE */

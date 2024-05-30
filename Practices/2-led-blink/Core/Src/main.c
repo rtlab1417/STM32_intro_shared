@@ -1,8 +1,6 @@
 /* USER CODE BEGIN Header */
 
 /**
- * https://youtu.be/mcok-xIaSXw?si=b5VT9NDZd79K9ur6
- * 【keysking的stm32教程】第3集 点灯宗师 让你的小灯绚丽起来
  * done - 2024 January 21
  *
   ******************************************************************************
@@ -124,7 +122,7 @@ int main(void)
 		  HAL_GPIO_WritePin(LED_BLUE_GPIO_Port, LED_BLUE_Pin,GPIO_PIN_RESET);
 	  }
 
-	  HAL_Delay(1000);
+	  HAL_Delay(50);
 
 	  state++;
 

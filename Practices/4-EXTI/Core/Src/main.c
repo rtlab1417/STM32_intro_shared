@@ -1,7 +1,5 @@
 /* USER CODE BEGIN Header */
 /**
- * 【keysking的stm32教程】 第6集 狂飙STM32中断
- * https://youtu.be/BGsU4xPXcSw?si=9R4Y5foEZNvYrfKK
  *
   ******************************************************************************
   * @file           : main.c
@@ -102,6 +100,7 @@ int main(void)
 	  HAL_Delay(1000);
 
 	  /*
+	   // without interrupt
 	  if(HAL_GPIO_ReadPin(KEY1_GPIO_Port,KEY1_Pin)== GPIO_PIN_RESET){
 		  HAL_GPIO_TogglePin(LED_GREEN_GPIO_Port,LED_GREEN_Pin);
 		  while(HAL_GPIO_ReadPin(KEY1_GPIO_Port,KEY1_Pin)== GPIO_PIN_RESET);

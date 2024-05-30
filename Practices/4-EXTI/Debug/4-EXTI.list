@@ -619,6 +619,7 @@ void EXTI15_10_IRQHandler(void)
  8000394:	b580      	push	{r7, lr}
  8000396:	af00      	add	r7, sp, #0
   /* USER CODE BEGIN EXTI15_10_IRQn 0 */
+	// de-bouncing by delay
 	HAL_Delay(10);
  8000398:	200a      	movs	r0, #10
  800039a:	f000 f8a5 	bl	80004e8 <HAL_Delay>
