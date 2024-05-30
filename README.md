@@ -66,7 +66,8 @@ Example:
 D:\STM32CubeIDE\workspace\
 
 # MCU - STM32F103C8T6 aka BluePill
-![Schematic for Practice 1 to Practice 7](./pic/MCUISP.jpg = 100x20)
+
+<img src="./pic/MCUISP.jpg" width="200" height="200"/>
 
 
 ## First Project
