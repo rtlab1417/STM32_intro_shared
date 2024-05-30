@@ -108,7 +108,7 @@ Comment 1:
 It is encouraged to enter / code each practice personally. Avoid cloning a project at the beginning of learning.    
 
 Comment 2:   
-<p style="color:red;;">It is encouraged to enter / code each practice personally. Avoid cloning a project at the beginning of learning. </p>
+<p style="color:red;">It is encouraged to enter / code each practice personally. Avoid cloning a project at the beginning of learning. </p>
 
 
 <p style="color:red;">This is a paragraph.</p>
