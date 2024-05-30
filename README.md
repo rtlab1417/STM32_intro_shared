@@ -70,13 +70,17 @@ D:\STM32CubeIDE\workspace\
 # MCU - STM32F103C8T6 aka BluePill
 The MCU training board with STM32F103C8T6.  
 
-<div class="row">
-  <div class="column">
-    <img src="./pic/MCUISP.jpg" alt="Snow" style="width:30%">
-   </div>
-  <div class="column">
-    <img src="./pic/STLinkV.jpg" alt="Forest" style="width:30%">
-   </div>
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="./pic/MCUISP.jpg" width="200"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="./pic/STLinkV.jpg" width="200"/>
+            </td>
+        </tr>
+    </table>
 </div>
 
 
