@@ -110,7 +110,7 @@ Create the first project. Check for readiness if STM32CubeIDE, MCU and ST-Link (
 <img src="./pic/Schematic_STM32F103C8T6-P1-P7_2024-05-30.svg" style="width:100%;height:100%;" alt="" />
 
 # References
-**Documents**
+**Documents**   
 For the MCU, STM32F103C8T6, two key documents are always referred:
 1. datasheet - STM32F103
 2. RM0008 Reference manual
