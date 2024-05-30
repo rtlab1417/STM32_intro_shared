@@ -80,3 +80,20 @@ Refer to the module. Create the first project. Check for readiness if STM32CubeI
 *Will add on as the practices expanding.*
 
 ![Schematic for Practice 1 to Practice 7](/Schematic_STM32F103C8T6-P1-P7_2024-05-29.svg)
+
+# References
+**Documents**
+For the MCU, STM32F103C8T6, two key documents are always referred:
+1. datasheet - STM32F103
+2. RM0008 Reference manual
+Do search and download from ST website.
+
+**Websites**
+1. ST
+   https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html
+2. ST Community
+   https://community.st.com/
+3. 
+
+   
+4. 
