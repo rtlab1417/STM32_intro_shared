@@ -113,8 +113,8 @@ Create the first project. Check for readiness if STM32CubeIDE, MCU and ST-Link (
 **Documents**   
 
 For the MCU, STM32F103C8T6, two key documents are always referred:
-1. datasheet - STM32F103  [Click to jump to "datasheet"](./documents/datasheet - stm32f103c8.pdf) 
-2. RM0008 Reference manual  [Click to jump to "Reference manual"](./documents/rm0008-stm32f101xx-stm32f102xx-stm32f103xx-stm32f105xx-and-stm32f107xx-advanced-armbased-32bit-mcus-stmicroelectronics) 
+1. datasheet - STM32F103  [Click to jump to "datasheet"](./documents/) 
+2. RM0008 Reference manual  [Click to jump to "Reference manual"](./documents/) 
 Do search and download from ST website.
 
 **Websites**
