@@ -72,10 +72,10 @@ The MCU training board with STM32F103C8T6.
 
 <div class="row">
   <div class="column">
-    <img src="./pic/MCUISP.jpg" alt="Snow" style="width:50%">
+    <img src="./pic/MCUISP.jpg" alt="Snow" style="width:30%">
    </div>
   <div class="column">
-    <img src="./pic/STLinkV.jpg" alt="Forest" style="width:50%">
+    <img src="./pic/STLinkV.jpg" alt="Forest" style="width:30%">
    </div>
 </div>
 
