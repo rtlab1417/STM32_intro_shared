@@ -70,7 +70,7 @@ D:\STM32CubeIDE\workspace\
 # MCU - STM32F103C8T6 aka BluePill
 <table class="center">
     	<tr>
-	    <td style="padding:50px">
+	    <td style="padding:100px">
 		    <img src="./pic/MCUISP.jpg" width="200"/>
 	    </td>
 	    <td style="padding:10px">
