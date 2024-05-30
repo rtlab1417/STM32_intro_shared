@@ -111,6 +111,17 @@ Comment 2:
 <code style="color : Red">It is encouraged to enter / code each practice personally. Avoid cloning a project at the beginning of learning.</code>
 
 
+
+```diff
++ Green
+- Red
+! Orange
+@@ Pink @@
+# Gray
+...
+
+
+
 1. GPIO - LED
 2. GPIO - LEDs Blink
 3. GPIO - LED-Buttons
