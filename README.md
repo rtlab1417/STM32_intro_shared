@@ -68,8 +68,6 @@ Example:
 D:\STM32CubeIDE\workspace\
 
 # MCU - STM32F103C8T6 aka BluePill
- 
-//<div id="image-table">
 <table class="center">
     	<tr>
 	    <td style="padding:10px">
