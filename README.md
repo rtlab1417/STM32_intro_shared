@@ -86,10 +86,9 @@ D:\STM32CubeIDE\workspace\
 
 
 
-|![](./pic/MCUISP.jpg = 200x)|![](./pic/STLinkV.jpg = 200x)|
+|![](./pic/MCUISP.jpg = 200x20)|![](./pic/STLinkV.jpg = 200x20)|
 |:-:|:-:|
 |The MCU training board with STM32F103C8T6|ST-Link V2 - Clone. The cheapest|
-
 
 
 
