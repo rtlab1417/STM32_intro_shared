@@ -100,6 +100,8 @@ Create the first project. Check for readiness if STM32CubeIDE, MCU and ST-Link (
 Comment:    
 Each practice is a template for future applications. A bigger project is a combination of smaller projects.   
 Practicing on a smaller project serves the purpose of learning and gain confidence as we move to a bigger and much complex project.   
+Many peripherals such as GPIO (Input/output), Interrupts, USART, I2C, etc. are trialed.
+*Will add on as the practices expanding.*
 
 1. GPIO - LED
 2. GPIO - LEDs Blink
@@ -108,8 +110,6 @@ Practicing on a smaller project serves the purpose of learning and gain confiden
 5. UART in Polling Mode
 6. UART With Interrup
 7. UART With DMA
-
-*Will add on as the practices expanding.*
 
 <img src="./pic/Schematic_STM32F103C8T6-P1-P7_2024-05-30.svg" style="width:100%;height:100%;" alt="" />
 
