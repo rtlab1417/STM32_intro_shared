@@ -69,8 +69,7 @@ D:\STM32CubeIDE\workspace\
 
 # MCU - STM32F103C8T6 aka BluePill
 <img src="./pic/MCUISP.jpg" width="200"/>
-
-[Schematic of STM32F103C8T6, aka BluePill](documents/original-schematic-STM32F103C8T6-Blue_Pill.pdf)
+[Click to jump to "Schematic of STM32F103C8T6, aka BluePill"](documents/original-schematic-STM32F103C8T6-Blue_Pill.pdf)
 
 ## First Project
 Refer to the module.   
@@ -105,7 +104,4 @@ Do search and download from ST website.
    https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html
 2. ST Community
    https://community.st.com/
-3. 
 
-   
-4. 
