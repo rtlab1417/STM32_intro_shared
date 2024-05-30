@@ -70,8 +70,9 @@ D:\STM32CubeIDE\workspace\
 # MCU - STM32F103C8T6 aka BluePill
 <table class="center">
     	<tr>
-	    <td style="padding:100px">
+	    <td style="padding:10px">
 		    <img src="./pic/MCUISP.jpg" width="200"/>
+		    <img style="float: left; padding: 3px 3px 0px 3px;" src="./pic/MCUISP.jpg" width="200"/>
 	    </td>
 	    <td style="padding:10px">
 		<img src="./pic/STLinkV.jpg" width="200"/>
@@ -83,6 +84,9 @@ D:\STM32CubeIDE\workspace\
 	 </tr>
 </table>
 </div>
+
+
+
 
 [Click to jump to "Schematic of STM32F103C8T6, aka BluePill"](documents/original-schematic-STM32F103C8T6-Blue_Pill.pdf)
 
