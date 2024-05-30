@@ -68,24 +68,25 @@ Example:
 D:\STM32CubeIDE\workspace\
 
 # MCU - STM32F103C8T6 aka BluePill
-// <img src="./pic/MCUISP.jpg" width="200"/>
+
 <table class="center">
-    	<tr>
+	<tr>
 	    <td style="padding:10px">
-		<img style="float: left; padding:  8px 3px 0px 7px;" src="./pic/MCUISP.jpg" width="200"/>
+	    	<div style="margin: 0 auto; width: 130px">
+			<img src="./pic/MCUISP.jpg" width="200"/>
+		</div>    
 	    </td>
 	    <td style="padding:10px">
-		<img src="./pic/STLinkV.jpg" width="200"/>
+		<div style="margin: 0 auto; width: 130px">
+			<img src="./pic/STLinkV.jpg" width="200"/>
+		</div>
 	    </td>
 	</tr>
-	  <tr>
+	<tr>
 	    <td>The MCU training board with STM32F103C8T6</td>
 	    <td>ST-Link V2 - Clone. The cheapest</td>
-	 </tr>
+	</tr>
 </table>
-</div>
-
-
 
 
 [Click to jump to "Schematic of STM32F103C8T6, aka BluePill"](documents/original-schematic-STM32F103C8T6-Blue_Pill.pdf)
