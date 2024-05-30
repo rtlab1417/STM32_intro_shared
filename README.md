@@ -86,11 +86,11 @@ D:\STM32CubeIDE\workspace\
 
 
 
-|![](./pic/MCUISP.jpg)|![](./pic/STLinkV.jpg)|
+|![](./pic/MCUISP.jpg = 200x)|![](./pic/STLinkV.jpg = 200x)|
 |:-:|:-:|
 |The MCU training board with STM32F103C8T6|ST-Link V2 - Clone. The cheapest|
 
-  
+
 
 
 [Click to jump to "Schematic of STM32F103C8T6, aka BluePill"](documents/original-schematic-STM32F103C8T6-Blue_Pill.pdf)
