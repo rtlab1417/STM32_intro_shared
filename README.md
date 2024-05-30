@@ -17,9 +17,9 @@ The author assumes no responsibility or liability for any errors or omissions in
 
 The learners are encouraged to read the datasheets / manual and experiment the practices.
 The learning path and knowledge are applicable to other STM32 MCU.  
-Refer to the module attached in the root directory - **STM32_Intro.pdf**   
+Refer to the teaching module attached in the root directory - **STM32_Intro.pdf**   
 
-[Teaching Module](STM32_Intro.pdf)  
+[Click to jump to "STM32_Intro.pdf"](STM32_Intro.pdf)  
 
 ## Market Parts
 The learners are urged to buy the market parts online. They are pretty cheap and easily available.
@@ -74,7 +74,7 @@ D:\STM32CubeIDE\workspace\
 
 ## First Project
 Refer to the module.   
-[Teaching Module](STM32_Intro.pdf)    
+[Click to jump to "STM32_Intro.pdf"](STM32_Intro.pdf)   
 
 Jump to: 9 First Project - Create A New Project
 
