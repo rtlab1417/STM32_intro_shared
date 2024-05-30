@@ -84,8 +84,7 @@ Refer to the module. Create the first project. Check for readiness if STM32CubeI
 
 *Will add on as the practices expanding.*
 
-<img src="./pic/Schematic_STM32F103C8T6-P1-P7_2024-05-29.svg" width="200"/>
-
+<img src="/pic/Schematic_STM32F103C8T6-P1-P7_2024-05-29.svg" style="width:100%;height:100%;" alt="" />
 
 # References
 **Documents**
