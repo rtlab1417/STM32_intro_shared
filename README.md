@@ -72,7 +72,8 @@ D:\STM32CubeIDE\workspace\
 
 ## First Project
 Refer to the module.   
-[Teaching Module](STM32_Intro.pdf)
+[Teaching Module](STM32_Intro.pdf)    
+
 Jump to: 9 First Project - Create A New Project
 
 Create the first project. Check for readiness if STM32CubeIDE, MCU and ST-Link (ISP) are ready!
