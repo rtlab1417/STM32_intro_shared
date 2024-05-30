@@ -93,7 +93,7 @@ D:\STM32CubeIDE\workspace\
 
 
 
-![](./pic/MCUISP.jpg = 200x20)
+![dssd](./pic/MCUISP.jpg = 200x20)
 
 [Click to jump to "Schematic of STM32F103C8T6, aka BluePill"](documents/original-schematic-STM32F103C8T6-Blue_Pill.pdf)
 
