@@ -107,7 +107,11 @@ Many peripherals such as GPIO (Input/output), Interrupts, USART, I2C, etc. are t
 *Will add on as the practices expanding.*
 
 Comment 1:     
-It is encouraged to enter / code each practice personally. Avoid cloning a project at the beginning of learning.    
+It is encouraged to enter / code each practice personally. Avoid cloning a project at the beginning of learning.   
+
+> [!NOTE]
+> It is encouraged to enter / code each practice personally. Avoid cloning a project at the beginning of learning.
+
 
 Comment 2:   
 *It is encouraged to enter / code each practice personally. Avoid cloning a project at the beginning of learning!*   
