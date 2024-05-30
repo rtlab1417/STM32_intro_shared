@@ -17,7 +17,9 @@ The author assumes no responsibility or liability for any errors or omissions in
 
 The learners are encouraged to read the datasheets / manual and experiment the practices.
 The learning path and knowledge are applicable to other STM32 MCU.  
-Refer to the module attached in the root directory - **STM32_Intro.pdf**
+Refer to the teaching module attached in the root directory - **STM32_Intro.pdf**   
+
+[Click to jump to "STM32_Intro.pdf"](STM32_Intro.pdf)  
 
 ## Market Parts
 The learners are urged to buy the market parts online. They are pretty cheap and easily available.
@@ -66,12 +68,16 @@ Example:
 D:\STM32CubeIDE\workspace\
 
 # MCU - STM32F103C8T6 aka BluePill
-
 <img src="./pic/MCUISP.jpg" width="200"/>
-
+[Click to jump to "Schematic of STM32F103C8T6, aka BluePill"](documents/original-schematic-STM32F103C8T6-Blue_Pill.pdf)
 
 ## First Project
-Refer to the module. Create the first project. Check for readiness if STM32CubeIDE, MCU and ST-Link (ISP) are ready!
+Refer to the module.   
+[Click to jump to "STM32_Intro.pdf"](STM32_Intro.pdf)   
+
+Jump to: 9 First Project - Create A New Project
+
+Create the first project. Check for readiness if STM32CubeIDE, MCU and ST-Link (ISP) are ready!
 
 # Practices
 1. GPIO - LED
@@ -84,7 +90,7 @@ Refer to the module. Create the first project. Check for readiness if STM32CubeI
 
 *Will add on as the practices expanding.*
 
-<img src="/pic/Schematic_STM32F103C8T6-P1-P7_2024-05-29.svg" style="width:100%;height:100%;" alt="" />
+<img src="./pic/Schematic_STM32F103C8T6-P1-P7_2024-05-30.svg" style="width:100%;height:100%;" alt="" />
 
 # References
 **Documents**
@@ -98,7 +104,4 @@ Do search and download from ST website.
    https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html
 2. ST Community
    https://community.st.com/
-3. 
 
-   
-4. 
