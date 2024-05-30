@@ -66,12 +66,9 @@ Example:
 D:\STM32CubeIDE\workspace\
 
 # MCU - STM32F103C8T6 aka BluePill
-
 <img src="./pic/MCUISP.jpg" width="200"/>
 
-
-[Schematic BluePill](documents/original-schematic-STM32F103C8T6-Blue_Pill.pdf)
-
+[Schematic of STM32F103C8T6, aka BluePill](documents/original-schematic-STM32F103C8T6-Blue_Pill.pdf)
 
 ## First Project
 Refer to the module. Create the first project. Check for readiness if STM32CubeIDE, MCU and ST-Link (ISP) are ready!
