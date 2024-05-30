@@ -69,25 +69,22 @@ D:\STM32CubeIDE\workspace\
 
 # MCU - STM32F103C8T6 aka BluePill
 
-<table class="center">
+<table  style="width:100%;">
+<tbody >
 	<tr>
-	    <td style="padding:10px">
-	    	<div style="margin: 0 auto; width: 130px">
+	    <td align="center">
 			<img src="./pic/MCUISP.jpg" width="200"/>
-		</div>    
 	    </td>
-	    <td style="padding:10px">
-		<div style="margin: 0 auto; width: 130px">
+	    <td align="center">
 			<img src="./pic/STLinkV.jpg" width="200"/>
-		</div>
 	    </td>
 	</tr>
 	<tr>
-	    <td>The MCU training board with STM32F103C8T6</td>
-	    <td>ST-Link V2 - Clone. The cheapest</td>
+	    <td align="center">The MCU training board with STM32F103C8T6</td>
+	    <td align="center">ST-Link V2 - Clone. The cheapest</td>
 	</tr>
+</tbody>
 </table>
-
 
 [Click to jump to "Schematic of STM32F103C8T6, aka BluePill"](documents/original-schematic-STM32F103C8T6-Blue_Pill.pdf)
 
