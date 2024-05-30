@@ -65,6 +65,9 @@ Create a specific folder in your computer as the workspace for all projects.
 Example:   
 D:\STM32CubeIDE\workspace\
 
+# MCU - STM32F103C8T6 aka BluePill
+![Schematic for Practice 1 to Practice 7](/MCUISP.jpg)
+
 ## First Project
 Refer to the module. Create the first project. Check for readiness if STM32CubeIDE, MCU and ST-Link (ISP) are ready!
 
