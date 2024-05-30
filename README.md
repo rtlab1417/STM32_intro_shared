@@ -67,7 +67,7 @@ D:\STM32CubeIDE\workspace\
 
 # MCU - STM32F103C8T6 aka BluePill
 
-<img src="./pic/MCUISP.jpg" width="200" height="200"/>
+<img src="./pic/MCUISP.jpg" width="200"/>
 
 
 ## First Project
