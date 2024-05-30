@@ -71,29 +71,21 @@ D:\STM32CubeIDE\workspace\
  
 
 <div id="image-table">
-    <table>
-	    <tr>
-    	    <td style="padding:10px">
-        	    <img src="./pic/MCUISP.jpg" width="200"/>
-      	    </td>
-            <td style="padding:10px">
-            	<img src="./pic/STLinkV.jpg" width="200"/>
-            </td>
-        </tr>
-    </table>
+<table>
+    	<tr>
+	    <td style="padding:10px">
+		    <img src="./pic/MCUISP.jpg" width="200"/>
+	    </td>
+	    <td style="padding:10px">
+		<img src="./pic/STLinkV.jpg" width="200"/>
+	    </td>
+	</tr>
+	  <tr>
+	    <td>The MCU training board with STM32F103C8T6</td>
+	    <td>ST-Link V2 - Clone. The cheapest</td>
+	 </tr>
+</table>
 </div>
-
-
-
-
-|![](./pic/MCUISP.jpg = 200x20)|![](./pic/STLinkV.jpg = 200x20)|
-|:-:|:-:|
-|The MCU training board with STM32F103C8T6|ST-Link V2 - Clone. The cheapest|
-
-
-
-
-![dssd](./pic/MCUISP.jpg = 200x20)
 
 [Click to jump to "Schematic of STM32F103C8T6, aka BluePill"](documents/original-schematic-STM32F103C8T6-Blue_Pill.pdf)
 
