@@ -117,7 +117,7 @@ This is an important skill to reflash an MCU when we have accidentally disable S
 
 2. Use ST-Link
 
-Work if SWD is wokring.    
+Work if SWD is working.    
 Deploying the app either - **Free STM32 ISP software** or **STM32CubeProgrammer**
 Functions - reflash, flash an MCU using BIN/HEX file, copy an MCU into BIN/HEX file, enable password-proctection (Not too sure)
 
