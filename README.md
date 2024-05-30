@@ -107,9 +107,11 @@ Many peripherals such as GPIO (Input/output), Interrupts, USART, I2C, etc. are t
 Comment 1:     
 It is encouraged to enter / code each practice personally. Avoid cloning a project at the beginning of learning.    
 
-<p style="background-color:tomato;">Comment 1: </p>
-<p style="background-color:tomato;">It is encouraged to enter / code each practice personally. Avoid cloning a project at the beginning of learning. </p>
+Comment 2:   
+<p style="color:red;;">It is encouraged to enter / code each practice personally. Avoid cloning a project at the beginning of learning. </p>
 
+
+<p style="color:red;">This is a paragraph.</p>
 
 1. GPIO - LED
 2. GPIO - LEDs Blink
