@@ -108,18 +108,7 @@ Comment 1:
 It is encouraged to enter / code each practice personally. Avoid cloning a project at the beginning of learning.    
 
 Comment 2:   
-<code style="color : Red">It is encouraged to enter / code each practice personally. Avoid cloning a project at the beginning of learning.</code>
-
-
-
-```diff
-+ Green
-- Red
-! Orange
-@@ Pink @@
-# Gray
-...
-
+<p style="color: rgb(135,206,235)">It is encouraged to enter / code each practice personally. Avoid cloning a project at the beginning of learning</p>
 
 
 1. GPIO - LED
