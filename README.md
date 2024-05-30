@@ -68,7 +68,7 @@ Example:
 D:\STM32CubeIDE\workspace\
 
 # MCU - STM32F103C8T6 aka BluePill
-The MCU training board with STM32F103C8T6.  
+ 
 
 <div id="image-table">
     <table>
@@ -84,7 +84,13 @@ The MCU training board with STM32F103C8T6.
 </div>
 
 
-ST-Link V2 - Clone. The cheapest.  
+
+
+|![](./pic/MCUISP.jpg)|![](./pic/STLinkV.jpg)|
+|:-:|:-:|
+|The MCU training board with STM32F103C8T6|ST-Link V2 - Clone. The cheapest|
+
+  
 
 
 [Click to jump to "Schematic of STM32F103C8T6, aka BluePill"](documents/original-schematic-STM32F103C8T6-Blue_Pill.pdf)
