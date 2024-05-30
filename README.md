@@ -109,6 +109,30 @@ Create the first project. Check for readiness if STM32CubeIDE, MCU and ST-Link (
 
 <img src="./pic/Schematic_STM32F103C8T6-P1-P7_2024-05-30.svg" style="width:100%;height:100%;" alt="" />
 
+# Some Tricks
+## Flash bin/hex File Or Erase A MCU Or Password Protection
+1. Use a serial port via UART.
+
+This is an important skill to reflash an MCU when we have accidentally disable SWD and ST-Link could not access the MCU. Disaster. Do not throw away the MCU. Instead, reflash it using UART. An USB-to-UART converter is needed.
+
+2. Use ST-Link
+
+Work if SWD is working.    
+Deploying the app either - **Free STM32 ISP software** or **STM32CubeProgrammer**    
+Functions - reflash, flash an MCU using BIN/HEX file, copy an MCU into BIN/HEX file, enable password-proctection (Not too sure)
+
+## Duplicating A Project Into STM32CubeIDE Workspace
+It is a must-learned skill.  
+For example, deploying project files shared by others and modify to suit our need.   
+
+See module.
+
+## Shortcut Keys In The Editor
+Short cut keys are used to improve efficiency in coding. You may ignore them asa newbie.   
+Shared a few in the module such as comment/uncomment.   
+More are available in STM32CubeIDE - Help or simply google it.
+
+
 # References
 **Documents**   
 
