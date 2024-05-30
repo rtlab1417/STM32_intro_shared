@@ -122,7 +122,7 @@ Deploying the app either - **Free STM32 ISP software** or **STM32CubeProgrammer*
 Functions - reflash, flash an MCU using BIN/HEX file, copy an MCU into BIN/HEX file, enable password-proctection (Not too sure)
 
 ## Duplicate a projec in STM32CubeIDE
-It is a must skill to master.   
+It is a must-learned skill.  
 For example, deploying project files shared by others and modify to suit our need.   
 
 See module.
