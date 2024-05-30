@@ -108,16 +108,7 @@ Comment 1:
 It is encouraged to enter / code each practice personally. Avoid cloning a project at the beginning of learning.    
 
 Comment 2:   
-// HTML
-<p id="my-paragraph" > It is encouraged to enter / code each practice personally. Avoid cloning a project at the beginning of learning! </p>
-
-// CSS
-#my-paragraph {
-   color: red;
-}
-
-
-
+*It is encouraged to enter / code each practice personally. Avoid cloning a project at the beginning of learning!*   
 
 1. GPIO - LED
 2. GPIO - LEDs Blink
