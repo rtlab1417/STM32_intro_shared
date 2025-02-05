@@ -109,13 +109,17 @@ Many peripherals such as GPIO (Input/output), Interrupts, USART, I2C, etc. are t
 > [!TIP]
 > It is encouraged to enter / code each practice personally. Avoid cloning a project at the beginning of learning.
 
-1. GPIO - LED
-2. GPIO - LEDs Blink
-3. GPIO - LED-Buttons
-4. GPIO - EXTI
-5. UART in Polling Mode
-6. UART With Interrup
-7. UART With DMA
+	10.1	GPIO- LED
+	10.2	GPIO- LEDs Blink
+	10.3	GPIO- LED-Buttons
+	10.4	GPIO- EXTI
+	10.5	UART in Polling Mode
+	10.6	UART With Interrupt
+	10.7	UART With DMA
+	10.8	UART With BLE_DMA
+	10.9	IIC_AHT20
+
+
 
 <img src="./pic/Schematic_STM32F103C8T6-P1-P7_2024-05-30.svg" style="width:100%;height:100%;" alt="" />
 
