@@ -1,22 +1,23 @@
 # STM32_intro_shared
 ## Author
 ```
-Dr Tee Kian Sek  
+AP Dr Tee Kian Sek  
 Faculty of Electrical and Electronic Engineering   
 Universiti Tun Hussein Onn Malaysia
 ``` 
 
-### Note by the author
+### Disclaimer
 This is a non profit learning sharing.   
 The author assumes no responsibility or liability for any errors or omissions in the content of this site. The information contained in this site is provided on an "as is" basis with no guarantees of completeness, accuracy, usefulness or timeliness.
 
-# Title: Getting Start with STM32 using STM32CubeIDE and HAL
+# Title: Getting Started with STM32 using STM32CubeIDE and HAL
 
 ## Objectives
 1. To learn the MCU and its registers
 2. To deploy official ST IDE - namely STM32CubeIDE
 3. To deploy official ST Hardware Abstract Layer (HAL)
 
+This serves an introductory to those are interested in STM32 MCU. Not suitable for advance learners.
 The learners are encouraged to read the datasheets / manual and experiment the practices.
 The learning path and knowledge are applicable to other STM32 MCU.  
 Refer to the teaching module attached in the root directory - **STM32_Intro.pdf**   
@@ -24,7 +25,7 @@ Refer to the teaching module attached in the root directory - **STM32_Intro.pdf*
 [Click to jump to "STM32_Intro.pdf"](STM32_Intro.pdf)  
 
 ## Market Parts
-The learners are urged to buy the market parts online. They are pretty cheap and easily available.
+The learners are urged to buy the market parts online. They are pretty cheap and easily available online.
 
 1. BluePill - STM32F103C8T6 x 1
 2. ST-Link V2 - clone x 1
@@ -33,9 +34,12 @@ The learners are urged to buy the market parts online. They are pretty cheap and
 5. Push button x 2
 6. Resistor 1/4 W, 200 ~ 500 Ohm x 3
 7. Resistor 1/4 W, 1k - 4.7k Ohm x 2
-8. Breadboard x 1
-9. Jumper wire
-10. OLED 0.96", 128 x 64, I2C x 1
+8. Breadboard MB102 x 1
+9. Jumper wire (Male to Male, Male to Female)
+10. Bluetooth breakout as slave, HC05 or HC06
+11. AHT20
+12. OLED 0.96", 128 x 64, I2C x 1
+
 
 *Will add on as the practices expanding.*
 
@@ -61,6 +65,7 @@ Computer (laptop or desktop) - running Windows 11 with access to WiFi.
    *My favour Serial Terminal App*
 3. Free STM32 ISP software
    [http://www.mcuisp.com/English%20mcuisp%20web/ruanjianxiazai-english.htm]
+4. customized serial terminal app - attached in folder "./apps/"
 
 # STM32CubeIDE
 ## Download and Install
@@ -68,6 +73,8 @@ First of all, download the last version of STM32CubeIDE from ST website. Follow 
 Create a specific folder in your computer as the workspace for all projects.   
 Example:   
 D:\STM32CubeIDE\workspace\
+
+Note: We will save all projects in this workspace!
 
 # MCU - STM32F103C8T6 aka BluePill
 
@@ -109,15 +116,15 @@ Many peripherals such as GPIO (Input/output), Interrupts, USART, I2C, etc. are t
 > [!TIP]
 > It is encouraged to enter / code each practice personally. Avoid cloning a project at the beginning of learning.
 
-	10.1	GPIO- LED
-	10.2	GPIO- LEDs Blink
-	10.3	GPIO- LED-Buttons
-	10.4	GPIO- EXTI
-	10.5	UART in Polling Mode
-	10.6	UART With Interrupt
-	10.7	UART With DMA
-	10.8	UART With BLE_DMA
-	10.9	IIC_AHT20
+	1	GPIO- LED
+	2	GPIO- LEDs Blink
+	3	GPIO- LED-Buttons
+	4	GPIO- EXTI
+	5	UART in Polling Mode
+	6	UART With Interrupt
+	7	UART With DMA
+	8	UART With BLE_DMA
+	9	IIC_AHT20
 
 
 
